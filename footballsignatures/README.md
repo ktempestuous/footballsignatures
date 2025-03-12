@@ -1,6 +1,6 @@
 # Footballsignature 
 
-Reboot application task: 
+Task: 
 
 Icons.com is a seller of authentic, exclusive, and signed football memorabilia.
 Your task is to acquire data from https://www.icons.com/ to explore which footballer’s signature is worth the most from current stars with surnames A-C.
